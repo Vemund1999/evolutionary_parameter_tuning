@@ -11,7 +11,7 @@ Each individual is a parameter combination. Each gene is different a parameter v
 # Dataset
 Loan defaulter classification was used to for the tuning algorithm.
 
-https://www.kaggle.com/datasets/prateek146/loan-defaulter-classification
+https://www.kaggle.com/datasets/prateek146/loan-defaulter-classification?select=train_indessa.csv
 
 The goal of the dataset is to predict wether a person will default on a loan.
 The Bank Indessa has not done well. Many of their NPA was from loan defaulters. They have collected data
