@@ -2,6 +2,7 @@
 This project showcases use of a simple evolutionary algorithm for parameter uning of XGBoost and Random Forest from scikit-learn.
 
 The following evolutionary algorithm was used:
+
 ![bilde](https://github.com/user-attachments/assets/f6bbd14a-1c4b-43bf-9cc3-f851a3a1d814)
 
 Each individual is a parameter combination. Each gene is different a parameter value.
