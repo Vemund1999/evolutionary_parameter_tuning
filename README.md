@@ -30,6 +30,15 @@ It can be seen that the parameter values are spread out at the start, and then c
 
 The results and analyzation of the results can be further read in the report, at the sections Results, Discussion and Conclusion.
 
+# About code
+The code for the genetic algorithm can be found at ```Assignment_1_DL/evolutionary_tuning.py```.
+An overview can be seen at the function ```run()```
+
+The ```requirments.txt``` file holds all dependencies for the project.
+
+
+
+
 
 
 
